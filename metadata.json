@@ -1,0 +1,6 @@
+{
+  "name": "Persian Dungeon Dreams",
+  "description": "A web-based D&D-style RPG interface, showcasing a landing/main screen for a game with AI-powered storytelling, character creation, and open-world exploration, fully supporting the Persian language.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
